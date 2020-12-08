@@ -14,10 +14,10 @@ In a summary statement, describe one drawback of this new design and two recomme
 
 
 UFO main page:
-![UFO_mainpage.png](static/images/mainpages.png)
+![UFO_mainpage.png](static/images/UFO_mainpage.png)
 
 UFO search fields, unfiltered:
-![UFO_unfiltered.png](static/images/unfiltered.png)
+![UFO_unfiltered.png](static/images/UFO_unfiltered.png)
 
 UFO filtered by date and state:
-![UFO_filtered.png](static/images/filtered.png)
+![UFO_filtered.png](static/images/UFO_filtered.png)
